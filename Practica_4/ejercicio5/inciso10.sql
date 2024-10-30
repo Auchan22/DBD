@@ -1,0 +1,5 @@
+DELETE FROM viaje
+WHERE dni = '40325692'
+
+DELETE FROM cliente
+WHERE dni = '40325692'
